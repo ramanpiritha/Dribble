@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+# EX10 Project Responsive Web Design using Bootstrap
 
 # Name: Piritharaman R
 # Reg no: 212223230148
